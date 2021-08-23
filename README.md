@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React / Vue / Node/ Typescript / AWS**
 
-- 📫 How to reach me **kwamerock9@gmail.com**
+- 📫 How to reach me **admiral1ap0901@gmail.com**
 
 - ⚡ Fun fact **I like watching football matches.**
 
