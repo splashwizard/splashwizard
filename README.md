@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Zeng</h1>
 <h3 align="center">A passionate full stack developer from Hong Kong</h3>
 
-- 👨‍💻 All of my projects are available at [https://jinzeng.netlify.app/](https://jinzeng.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://paulzeng.netlify.app](https://paulzeng.netlify.app)
 
 - 💬 Ask me about **React / Vue / Node/ Typescript / AWS**
 
@@ -23,6 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/splashwizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="splashwizard" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jin-zeng-289b581b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jin-zeng-289b581b5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/paul-zeng91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jin-zeng-289b581b5" height="30" width="40" /></a>
 <a href="https://codesandbox.com/splashwizard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="splashwizard" height="30" width="40" /></a>
 </p>
