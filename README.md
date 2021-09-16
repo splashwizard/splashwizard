@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **I like watching football matches.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=splashwizard&title=MultiLanguage,Repositories,Stars,Commit,Followers,PullRequest&theme=monokai" alt="splashwizard" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=splashwizard&title=MultiLanguage,Repositories,Stars,Commit,Followers,PullRequest&theme=cobalt" alt="splashwizard" /></a> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=splashwizard&label=Profile%20views&color=0e75b6&style=flat" alt="splashwizard" /> </p> -->
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
