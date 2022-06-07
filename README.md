@@ -2,8 +2,6 @@
 
 - 💬 Ask me about **React / Vue / Node/ Typescript / AWS**
 
-- 📫 How to reach me **splashwizard9@gmail.com**
-
 - ⚡ Fun fact **I like watching football matches.**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=splashwizard&title=MultiLanguage,Repositories,Stars,Commit,Followers,PullRequest&theme=cobalt" alt="splashwizard" /></a> </p>
