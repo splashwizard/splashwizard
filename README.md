@@ -99,21 +99,6 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </details>
 </details>
 
-<details>
-  <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
-
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
-  <a href="https://github.com/splashwizard">
-    <img align="center" src="https://github.com/splashwizard/splashwizard/icons/Github.gif" width="70"/>
-  </a>
-  <a href="https://linkedin.com/in/parthjohri07">
-    <img align="center" src="https://github.com/splashwizard/splashwizard/icons/Linkedin.gif" width="70"/>
-  </a>
-</div>
-
-  
-</details>
-
 ## <img align="center" src="https://github.com/splashwizard/splashwizard/icons/Contact.gif"  width="37"/> Contact Me
 
 <p> 
