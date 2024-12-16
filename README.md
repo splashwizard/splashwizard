@@ -1,4 +1,3 @@
-<h1 align="center">Hi <img src="https://github.com/splashwizard/splashwizard/icons/Hi.gif" width="28px"/>, I'm Gabriel Brzezinski</h2>
 <h2 align="center">
 Fullstack Developer
 
