@@ -1,9 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/splashwizard/splashwizard/icons/Hi.gif" width="28px"/>, I'm Gabriel Brzezinski</h2>
 <h2 align="center">
 Fullstack Developer
-<a href="https://gabriel.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-</a>
 
 </h2>
 
