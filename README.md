@@ -98,7 +98,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ## <img align="center" src="https://github.com/splashwizard/splashwizard/icons/Contact.gif"  width="37"/> Contact Me
 
 <p> 
- <i>You can reach out to me via</i> 
+ <i>You can reach out to me via</i> splashwizard4@gmail.com
 &nbsp;<a href="mailto:splashwizard4@gmail.com">
      <img align="center" src="https://github.com/splashwizard/splashwizard/icons/Gmail.gif"  width="100"/>
  </a>
